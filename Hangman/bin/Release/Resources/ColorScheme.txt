@@ -1,0 +1,14 @@
+Dark Gray
+#222222
+
+Mid Gray
+#606060
+
+Ligh Gray
+#C7C7C7
+
+White
+#F7F7F7
+
+Red
+#E2230D

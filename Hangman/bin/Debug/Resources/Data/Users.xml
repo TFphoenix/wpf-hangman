@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<LoginVM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserList>
+    <User>
+      <Id>0</Id>
+      <Name>Teodor</Name>
+      <ImageIndex>12</ImageIndex>
+      <InGame>true</InGame>
+      <Score WonGames="2" LostGames="5" CategoriesPoints="0 2 0 0" />
+      <Saves Level="0" Mistakes="0" Timer="55" Categories="false true false false" LettersState="false false false false false false false false false false false false false false false false false false false false false false false false false false" ActiveWord="CLINT EASTWOOD" />
+    </User>
+    <User>
+      <Id>15</Id>
+      <Name>Gabi</Name>
+      <ImageIndex>15</ImageIndex>
+      <InGame>false</InGame>
+      <Score WonGames="0" LostGames="0" CategoriesPoints="0 0 0 0" />
+    </User>
+    <User>
+      <Id>16</Id>
+      <Name>Fratele Leu</Name>
+      <ImageIndex>2</ImageIndex>
+      <InGame>false</InGame>
+      <Score WonGames="0" LostGames="7" CategoriesPoints="0 0 0 0" />
+      <Saves Level="0" Mistakes="0" Timer="39" Categories="false true false false" LettersState="false false false false false false false false false false false false false false false false false false false false false false false false false false" ActiveWord="MORGAN FREEMAN" />
+    </User>
+    <User>
+      <Id>17</Id>
+      <Name>COVID-19</Name>
+      <ImageIndex>6</ImageIndex>
+      <InGame>true</InGame>
+      <Score WonGames="0" LostGames="1" CategoriesPoints="0 0 0 0" />
+      <Saves Level="0" Mistakes="4" Timer="29" Categories="false true false false" LettersState="true false true false true false false false false false false false false true false false false false false false false true false false false false" ActiveWord="TAYLOR SWIFT" />
+    </User>
+  </UserList>
+</LoginVM>

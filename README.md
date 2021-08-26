@@ -1,5 +1,5 @@
 
-<img src="Hangman_Graphics/InGame Hangman Animation/phase5.png" alt="" width="220"><img src="Hangman_Graphics/Main Menu Video Project/Hangman_text.png" alt="" width="640">
+<img src="Hangman_Graphics/InGame Hangman Animation/phase5.png" alt="" width="220"><img src="Hangman_Graphics/Main Menu Video Project/Hangman_text.png" alt="" width="528">
 
 <br>
 
@@ -29,7 +29,7 @@ For the implementation of this project I've used the following technologies and 
 <br>
 
 ### Dialog Boxes
-|<img src="showcase/game_save.png" alt=""><br>Save Game|<img src="showcase/game_continue.png" alt=""><br>Continue Game|
+|<img src="showcase/game_save.png" alt="" width="1200px"><br>Save Game|<img src="showcase/game_continue.png" alt="" width="1200px"><br>Continue Game|
 |:-:|:-:|
 |<img src="showcase/game_won.png" alt=""><br>**Won Game**|<img src="showcase/game_lost.png" alt=""><br>**Lost Gmae**|
 
